@@ -1,0 +1,16 @@
+C:\Users\Upqroo\Desktop\EstructuraAvanzada23AM\bin\Debug\net5.0\EstructuraAvanzada23AM.exe
+C:\Users\Upqroo\Desktop\EstructuraAvanzada23AM\bin\Debug\net5.0\EstructuraAvanzada23AM.deps.json
+C:\Users\Upqroo\Desktop\EstructuraAvanzada23AM\bin\Debug\net5.0\EstructuraAvanzada23AM.runtimeconfig.json
+C:\Users\Upqroo\Desktop\EstructuraAvanzada23AM\bin\Debug\net5.0\EstructuraAvanzada23AM.runtimeconfig.dev.json
+C:\Users\Upqroo\Desktop\EstructuraAvanzada23AM\bin\Debug\net5.0\EstructuraAvanzada23AM.dll
+C:\Users\Upqroo\Desktop\EstructuraAvanzada23AM\bin\Debug\net5.0\EstructuraAvanzada23AM.pdb
+C:\Users\Upqroo\Desktop\EstructuraAvanzada23AM\obj\Debug\net5.0\EstructuraAvanzada23AM.csproj.AssemblyReference.cache
+C:\Users\Upqroo\Desktop\EstructuraAvanzada23AM\obj\Debug\net5.0\EstructuraAvanzada23AM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Upqroo\Desktop\EstructuraAvanzada23AM\obj\Debug\net5.0\EstructuraAvanzada23AM.AssemblyInfoInputs.cache
+C:\Users\Upqroo\Desktop\EstructuraAvanzada23AM\obj\Debug\net5.0\EstructuraAvanzada23AM.AssemblyInfo.cs
+C:\Users\Upqroo\Desktop\EstructuraAvanzada23AM\obj\Debug\net5.0\EstructuraAvanzada23AM.csproj.CoreCompileInputs.cache
+C:\Users\Upqroo\Desktop\EstructuraAvanzada23AM\obj\Debug\net5.0\EstructuraAvanzada23AM.dll
+C:\Users\Upqroo\Desktop\EstructuraAvanzada23AM\obj\Debug\net5.0\refint\EstructuraAvanzada23AM.dll
+C:\Users\Upqroo\Desktop\EstructuraAvanzada23AM\obj\Debug\net5.0\EstructuraAvanzada23AM.pdb
+C:\Users\Upqroo\Desktop\EstructuraAvanzada23AM\obj\Debug\net5.0\EstructuraAvanzada23AM.genruntimeconfig.cache
+C:\Users\Upqroo\Desktop\EstructuraAvanzada23AM\obj\Debug\net5.0\ref\EstructuraAvanzada23AM.dll

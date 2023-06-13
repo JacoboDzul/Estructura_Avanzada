@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "M77iv+HOkfxA/OmgFPncWzcNoXdLxDDyjcVlHiVPzvtd8USprqncHZMdnc7l1ZarBgTRXfoh07oxJHYMd6TojA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Upqroo\\Desktop\\EstructuraAvanzada23AM\\EstructuraAvanzada23AM.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Upqroo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

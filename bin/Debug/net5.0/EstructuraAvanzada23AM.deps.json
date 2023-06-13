@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "EstructuraAvanzada23AM/1.0.0": {
+        "runtime": {
+          "EstructuraAvanzada23AM.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EstructuraAvanzada23AM/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
